@@ -1,0 +1,4 @@
+# Annotation Quality Validator
+# This project uses Python's standard library exclusively (csv, sys, os, dataclasses, typing, unittest).
+# No external third-party dependencies are required.
+# Minimum Python version: 3.9+
